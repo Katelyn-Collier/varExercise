@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\varExercise\varExercise\obj\Debug\net6.0\varExercise.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\varExercise\varExercise\obj\Debug\net6.0\varExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\varExercise\varExercise\obj\Debug\net6.0\varExercise.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\varExercise\varExercise\obj\Debug\net6.0\varExercise.AssemblyInfo.cs
+C:\Users\User\source\repos\varExercise\varExercise\obj\Debug\net6.0\varExercise.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\varExercise\varExercise\bin\Debug\net6.0\varExercise.exe
+C:\Users\User\source\repos\varExercise\varExercise\bin\Debug\net6.0\varExercise.deps.json
+C:\Users\User\source\repos\varExercise\varExercise\bin\Debug\net6.0\varExercise.runtimeconfig.json
+C:\Users\User\source\repos\varExercise\varExercise\bin\Debug\net6.0\varExercise.dll
+C:\Users\User\source\repos\varExercise\varExercise\bin\Debug\net6.0\varExercise.pdb
+C:\Users\User\source\repos\varExercise\varExercise\obj\Debug\net6.0\varExercise.dll
+C:\Users\User\source\repos\varExercise\varExercise\obj\Debug\net6.0\refint\varExercise.dll
+C:\Users\User\source\repos\varExercise\varExercise\obj\Debug\net6.0\varExercise.pdb
+C:\Users\User\source\repos\varExercise\varExercise\obj\Debug\net6.0\varExercise.genruntimeconfig.cache
+C:\Users\User\source\repos\varExercise\varExercise\obj\Debug\net6.0\ref\varExercise.dll
